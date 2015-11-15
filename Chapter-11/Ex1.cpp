@@ -23,7 +23,7 @@ int main()
     cout << "Enter a person 1s first name: ";
     cin >> person.firstname;
     
-    cout << "Entier their last name: ";
+    cout << "Enter their last name: ";
     cin >> person.lastname;
     
     cout << "Enter their age: ";
